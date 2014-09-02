@@ -19,3 +19,9 @@
 *.exe
 *.out
 *.app
+
+# Editor Temp File
+*.swp
+
+# Rubbish
+.DS_Store
